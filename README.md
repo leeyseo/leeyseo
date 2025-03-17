@@ -5,8 +5,8 @@
 I am majoring in computer information engineering.<br>
 I am a college student studying machine learning.
 
-<img src="https://img.shields.io/badge/Catholic University Of Korea-003594?style=flat-square"/></a>
-<img src="https://img.shields.io/badge/ML engineer-009300?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/Catholic University Of Korea-003594?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/ML engineer-009300?style=for-the-badge"/></a>
 
 ## summary
 - Inventor of patent for machine learning-based system related to STT
@@ -19,10 +19,14 @@ I am a college student studying machine learning.
 - Served in the Republic of Korea Marine Corps
 
 ## cv
+<a href="[https://uttermost-horn-4b3.notion.site/1765d75abad0805eb5c1f11f0caac3bf?pvs=4](https://file.notion.so/f/f/c2823e7b-cb53-4f80-997a-82508828279d/6a4af8e2-a867-4da8-8fe6-6c728cd7e964/cv.pdf?table=block&id=1b95d75a-bad0-8066-8a06-efad0a506b33&spaceId=c2823e7b-cb53-4f80-997a-82508828279d&expirationTimestamp=1742227200000&signature=XfHTRASIWiEx90jTiBuixM3SZSw1_7WAm7z9NID_xsI&downloadName=cv.pdf)">
+  <img src="https://img.shields.io/badge/cv-EFEFEF.svg?style=for-the-badge&logo=notion&logoColor=000000"/>
+</a>
+
 
 ## profile
 <a href="https://uttermost-horn-4b3.notion.site/1765d75abad0805eb5c1f11f0caac3bf?pvs=4">
-  <img src="https://img.shields.io/badge/notion-EFEFEF.svg?style=for-the-badge&logo=notion&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/profile-EFEFEF.svg?style=for-the-badge&logo=notion&logoColor=000000"/>
 </a>
 
 
