@@ -8,10 +8,22 @@ I am a college student studying machine learning.
 <img src="https://img.shields.io/badge/Catholic University Of Korea-003594?style=flat-square"/></a>
 <img src="https://img.shields.io/badge/ML engineer-009300?style=flat-square"/></a>
 
+## summary
+- Inventor of patent for machine learning-based system related to STT
+- University Scholarship Student (4.1/4.5)
+- undergraduate research student
+- University student IT club representative on campus
+- Winner of numerous AI-related awards
+- University Innovation Support Project Innovation Scholarship Student
+- Participation in the Harley-Davidson Korea Certified Used Car Homepage Development Project
+- Served in the Republic of Korea Marine Corps
+
 ## cv
 
 ## profile
-<img src="https://img.shields.io/badge/notion-EFEFEF.svg?style=for-the-badge&logo=notion&logoColor=000000"/>
+<a href="https://uttermost-horn-4b3.notion.site/1765d75abad0805eb5c1f11f0caac3bf?pvs=4">
+  <img src="https://img.shields.io/badge/notion-EFEFEF.svg?style=for-the-badge&logo=notion&logoColor=000000"/>
+</a>
 
 
 
