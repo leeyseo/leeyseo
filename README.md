@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-# leeyseo
+<h1 align="center">leeyseo</h1>
 **Hello World!** Welcome to my github. I am a student at Catholic University Of Korea.<br>
 I am majoring in computer information engineering.<br>
 I am a college student studying machine learning.
