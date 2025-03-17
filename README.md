@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" align="center" />
 
 <h1 align="center">leeyseo</h1>
 **Hello World!** Welcome to my github. I am a student at Catholic University Of Korea.<br>
