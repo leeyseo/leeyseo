@@ -8,6 +8,13 @@ I am a college student studying machine learning.
 <img src="https://img.shields.io/badge/Catholic University Of Korea-003594?style=flat-square"/></a>
 <img src="https://img.shields.io/badge/ML engineer-009300?style=flat-square"/></a>
 
+## cv
+
+## profile
+<img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=000000"/>
+
+
+
 ## language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyseo)](https://github.com/anuraghazra/github-readme-stats)
 
