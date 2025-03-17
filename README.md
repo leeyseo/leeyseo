@@ -11,7 +11,7 @@ I am a college student studying machine learning.
 ## cv
 
 ## profile
-<img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/notion-EFEFEF.svg?style=for-the-badge&logo=notion&logoColor=000000"/>
 
 
 
