@@ -36,11 +36,11 @@ I am a college student studying machine learning.
 
 
 ## my activity
-<img src="https://img.shields.io/badge/gdsc-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/umc-43853D?style=flat-square&logo=node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/aws_cloud_club-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/LG aimers-A50034?style=flat-square&logo=lg&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/goormthonUniv-FFCD00?style=flat-square&logo=kakao&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/gdsc-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/umc-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/aws_cloud_club-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LG aimers-A50034?style=for-the-badge&logo=lg&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/goormthonUniv-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"/></a>
 
 
 ## tech stack
@@ -53,7 +53,7 @@ I am a college student studying machine learning.
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## environment
+## tools
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
