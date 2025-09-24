@@ -10,7 +10,7 @@ I am a college student studying machine learning.
 <img src="https://img.shields.io/badge/GPA 4.1/4.5-003594?style=for-the-badge"/></a>
 
 ## cv
-<a href="https://file.notion.so/f/f/c2823e7b-cb53-4f80-997a-82508828279d/6a4af8e2-a867-4da8-8fe6-6c728cd7e964/cv.pdf?table=block&id=1b95d75a-bad0-8066-8a06-efad0a506b33&spaceId=c2823e7b-cb53-4f80-997a-82508828279d&expirationTimestamp=1745272800000&signature=0nLHRcQPk9bM_SBFcdCfNK_dAYE0Pe5i8O8Lngz9qjA&downloadName=cv.pdf">
+<a href="https://www.notion.so/1755d75abad0805f81fcd53efb18eb53?source=copy_link#1b95d75abad080668a06efad0a506b33">
   <img src="https://img.shields.io/badge/cv-EFEFEF.svg?style=for-the-badge&logoColor=000000"/>
 </a>
 
