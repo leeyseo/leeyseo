@@ -1,77 +1,70 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header"/>
+<div align="center">
 
-# leeyseo
-**Hello World!** Welcome to my github. I am a student at Catholic University Of Korea.<br>
-I am majoring in computer information engineering.<br>
-I am a college student studying machine learning.
+<img src="./assets/hero.svg" width="100%" alt="LeeYoonseo — AI Engineer @ Unnest · Incoming M.S. @ Yonsei SIL"/>
 
-<img src="https://img.shields.io/badge/Catholic University Of Korea-003594?style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/ML engineer-009300?style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/GPA 4.1/4.5-003594?style=for-the-badge"/></a>
+<br/>
 
-## cv
-<a href="https://www.notion.so/1755d75abad0805f81fcd53efb18eb53?source=copy_link#1b95d75abad080668a06efad0a506b33">
-  <img src="https://img.shields.io/badge/cv-EFEFEF.svg?style=for-the-badge&logoColor=000000"/>
-</a>
+<a href="https://leeyoonseo.com"><img src="https://img.shields.io/badge/Website-leeyoonseo.com-FF6B1A?style=for-the-badge&labelColor=0B0B0B"/></a>
+<a href="mailto:dandyi2525@gmail.com"><img src="https://img.shields.io/badge/Email-dandyi2525-FF6B1A?style=for-the-badge&logo=gmail&logoColor=FF6B1A&labelColor=0B0B0B"/></a>
+<a href="https://www.notion.so/1755d75abad0805f81fcd53efb18eb53?source=copy_link#1b95d75abad080668a06efad0a506b33"><img src="https://img.shields.io/badge/CV-Notion-FF6B1A?style=for-the-badge&logo=notion&logoColor=FF6B1A&labelColor=0B0B0B"/></a>
+<a href="https://uttermost-horn-4b3.notion.site/1765d75abad0805eb5c1f11f0caac3bf?pvs=4"><img src="https://img.shields.io/badge/Profile-Notion-FF6B1A?style=for-the-badge&logo=notion&logoColor=FF6B1A&labelColor=0B0B0B"/></a>
 
+<br/><br/>
 
-## profile
-<a href="https://uttermost-horn-4b3.notion.site/1765d75abad0805eb5c1f11f0caac3bf?pvs=4">
-  <img src="https://img.shields.io/badge/profile-EFEFEF.svg?style=for-the-badge&logo=notion&logoColor=000000"/>
-</a>
+<img src="./assets/terminal.svg" width="100%" alt="$ whoami — Lee Yoonseo · 이윤서"/>
 
+</div>
 
-## summary
-- Inventor of patent for machine learning-based system related to STT
-- University Scholarship Student (4.1/4.5)
-- undergraduate research student
-- University student IT club representative on campus
-- Winner of numerous AI-related awards
-- University Innovation Support Project Innovation Scholarship Student
-- Participation in the Harley-Davidson Korea Certified Used Car Homepage Development Project
-- Served in the Republic of Korea Marine Corps
+<img src="./assets/divider.svg" width="100%"/>
 
+## `~/career` &nbsp;경력
 
-## language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyseo)](https://github.com/anuraghazra/github-readme-stats)
+<img src="./assets/career.svg" width="100%" alt="career.log — Yonsei SIL (2027.03), Unnest AI Engineer (2026.07–), Naver Pay R&amp;D, patent, awards, scholarship"/>
 
+<img src="./assets/divider.svg" width="100%"/>
 
-## my activity
-<img src="https://img.shields.io/badge/gdsc-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/umc-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/aws_cloud_club-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/LG aimers-A50034?style=for-the-badge&logo=lg&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/goormthonUniv-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"/></a>
+## `~/activity` &nbsp;활동
 
+<p>
+<img src="https://img.shields.io/badge/GDSC-0B0B0B?style=for-the-badge&logo=google&logoColor=FF6B1A"/>
+<img src="https://img.shields.io/badge/UMC-0B0B0B?style=for-the-badge&logo=node.js&logoColor=FF6B1A"/>
+<img src="https://img.shields.io/badge/AWS_Cloud_Club-0B0B0B?style=for-the-badge&logo=amazonwebservices&logoColor=FF6B1A"/>
+<img src="https://img.shields.io/badge/LG_Aimers-0B0B0B?style=for-the-badge&logo=lg&logoColor=FF6B1A"/>
+<img src="https://img.shields.io/badge/goormthon_Univ-0B0B0B?style=for-the-badge&logo=kakao&logoColor=FF6B1A"/>
+</p>
 
-## tech stack
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img src="./assets/divider.svg" width="100%"/>
 
-## tools
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+## `~/stack` &nbsp;기술 스택
 
-<!--
-**leeyseo/leeyseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## my github 👋
-Here are some ideas to get you started:
+<p>
+<img src="https://img.shields.io/badge/Python-FF6B1A?style=for-the-badge&logo=python&logoColor=0B0B0B"/>
+<img src="https://img.shields.io/badge/C-FF6B1A?style=for-the-badge&logo=c&logoColor=0B0B0B"/>
+<img src="https://img.shields.io/badge/C++-FF6B1A?style=for-the-badge&logo=cplusplus&logoColor=0B0B0B"/>
+<img src="https://img.shields.io/badge/JavaScript-FF6B1A?style=for-the-badge&logo=javascript&logoColor=0B0B0B"/>
+<img src="https://img.shields.io/badge/Node.js-FF6B1A?style=for-the-badge&logo=nodedotjs&logoColor=0B0B0B"/>
+<img src="https://img.shields.io/badge/MySQL-FF6B1A?style=for-the-badge&logo=mysql&logoColor=0B0B0B"/>
+<img src="https://img.shields.io/badge/AWS-FF6B1A?style=for-the-badge&logo=amazonwebservices&logoColor=0B0B0B"/>
+<img src="https://img.shields.io/badge/Docker-FF6B1A?style=for-the-badge&logo=docker&logoColor=0B0B0B"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools** &nbsp;
+<img src="https://img.shields.io/badge/VS_Code-0B0B0B?style=flat-square&logo=visualstudiocode&logoColor=FF6B1A"/>
+<img src="https://img.shields.io/badge/Kaggle-0B0B0B?style=flat-square&logo=kaggle&logoColor=FF6B1A"/>
+<img src="https://img.shields.io/badge/Colab-0B0B0B?style=flat-square&logo=googlecolab&logoColor=FF6B1A"/>
+<img src="https://img.shields.io/badge/GitHub-0B0B0B?style=flat-square&logo=github&logoColor=FF6B1A"/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `~/stats` &nbsp;깃허브 통계
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=leeyseo&show_icons=true&bg_color=0B0B0B&title_color=FF6B1A&icon_color=FF6B1A&text_color=EDEDED&border_color=242424&border_radius=12"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyseo&layout=compact&bg_color=0B0B0B&title_color=FF6B1A&text_color=EDEDED&border_color=242424&border_radius=12"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/leeyseo/leeyseo/output/snake-orange.svg" alt="contribution snake"/>
+</p>
+
+<img src="./assets/divider.svg" width="100%"/>
