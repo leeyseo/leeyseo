@@ -1,0 +1,36 @@
+name: Generate profile assets
+
+on:
+  schedule:
+    - cron: "0 15 * * *" # daily at 00:00 KST
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build stats card
+        run: python3 tools/stats.py ${{ github.repository_owner }} dist/stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-orange.svg?color_snake=#FF6B1A&color_dots=#1A1A1A,#4A2410,#8A3A10,#C8530F,#FF6B1A
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
