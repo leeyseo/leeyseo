@@ -58,10 +58,7 @@
 
 ## `~/stats` &nbsp;깃허브 통계
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leeyseo&show_icons=true&bg_color=0B0B0B&title_color=FF6B1A&icon_color=FF6B1A&text_color=EDEDED&border_color=242424&border_radius=12"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyseo&layout=compact&bg_color=0B0B0B&title_color=FF6B1A&text_color=EDEDED&border_color=242424&border_radius=12"/>
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/leeyseo/leeyseo/output/stats.svg" alt="GitHub stats — leeyseo"/>
 
 <p align="center">
 <img width="100%" src="https://raw.githubusercontent.com/leeyseo/leeyseo/output/snake-orange.svg" alt="contribution snake"/>

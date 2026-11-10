@@ -2,8 +2,7 @@
 import html
 import os
 
-OUT = "assets"
-os.makedirs(OUT, exist_ok=True)
+OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets")
 
 ORANGE = "#FF6B1A"
 BG = "#0B0B0B"
@@ -290,7 +289,9 @@ def divider():
     return svg(W, H, a, body, defs)
 
 
-for fname, fn in [("hero.svg", hero), ("terminal.svg", terminal), ("career.svg", career), ("divider.svg", divider)]:
-    with open(os.path.join(OUT, fname), "w", encoding="utf-8") as f:
-        f.write(fn())
-    print("wrote", fname)
+if __name__ == "__main__":
+    os.makedirs(OUT, exist_ok=True)
+    for fname, fn in [("hero.svg", hero), ("terminal.svg", terminal), ("career.svg", career), ("divider.svg", divider)]:
+        with open(os.path.join(OUT, fname), "w", encoding="utf-8") as f:
+            f.write(fn())
+        print("wrote", fname)
